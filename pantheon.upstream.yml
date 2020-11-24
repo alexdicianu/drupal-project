@@ -5,4 +5,5 @@ drush_version: 8
 build_step: true
 protected_web_paths:
   - /private
-
+database:
+  version: 10.4
