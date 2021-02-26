@@ -19,8 +19,7 @@
         "cweagans/composer-patches": "^1.7",
         "drupal/config_direct_save": "^1.0",
         "drush-ops/behat-drush-endpoint": "^9.3",
-        "zaporylie/composer-drupal-optimizations": "^1.2",
-        "drupal/redirect": "^1.6"
+        "zaporylie/composer-drupal-optimizations": "^1.2"
     },
     "require-dev": {
         "behat/behat": "3.*",
